@@ -41,4 +41,4 @@ app.use((req,res,next)=>{
 app.use("/",Router)
 
 app.listen(process.env.PORT || 8000, () => {    
-  console.log('Example app listening on port 8000!')});
+  console.log('Example app listening on post 8000!')});
